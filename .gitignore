@@ -1,0 +1,6 @@
+aula_teoria/
+*.zip
+..gitignore.un~
+.gitignore~
+.ipynb_checkpoints/
+*.csv
